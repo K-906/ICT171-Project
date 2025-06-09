@@ -6,7 +6,7 @@
 - **GitHub Link**: https://github.com/K-906/ICT171-Project  
 - **Live Website**: https://teamgplace.com
 - **University Name**:Murdoch University
-  
+  **Video**: https://youtu.be/7n0Epm5usRg
 ## Project Summary
 Game-Link is a website that allows esports players to pre-register for upcoming tournaments. Organisers can list available slots and events, and players can register early.
 
